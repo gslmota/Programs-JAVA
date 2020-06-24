@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App6",
+            "request": "launch",
+            "mainClass": "app6.App6",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App5",
+            "request": "launch",
+            "mainClass": "app5.App5",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UsandoControleRemoto<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "app0.UsandoControleRemoto",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UltraEmojiCombat<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "app1.UltraEmojiCombat",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConceitoHeranca<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "app2.ConceitoHeranca",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Principal<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "app3.Principal",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App4<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "app4.App4",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dialog1<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "appGUI.Dialog1",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DrawPanelTest<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "appGUI.DrawPanelTest",
+            "projectName": "CursoEmVideo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NameDialog<CursoEmVideo>",
+            "request": "launch",
+            "mainClass": "appGUI.NameDialog",
+            "projectName": "CursoEmVideo"
+        }
+    ]
+}
